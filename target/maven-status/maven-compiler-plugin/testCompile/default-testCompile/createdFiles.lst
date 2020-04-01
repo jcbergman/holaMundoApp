@@ -1,0 +1,14 @@
+com\com470\holaMundoApp\service\UtilidadesArrayTest.class
+com\com470\holaMundoApp\service\ValidarEmailTest.class
+com\com470\holaMundoApp\service\MetodosJUnitTest.class
+com\com470\holaMundoApp\service\FactorialTest.class
+com\com470\holaMundoApp\service\UtilidadesNullTest.class
+com\com470\holaMundoApp\service\ConexionBDTest.class
+com\com470\holaMundoApp\HolaMundoAppApplicationTests.class
+com\com470\holaMundoApp\service\UtilidadesFailTest.class
+com\com470\holaMundoApp\service\UtilidadesTest.class
+com\com470\holaMundoApp\service\CalculadoraTest.class
+com\com470\holaMundoApp\service\UtilidadesPersonaTest.class
+com\com470\holaMundoApp\service\UtilidadesSameTest.class
+com\com470\holaMundoApp\service\UtilidadesThatTest.class
+com\com470\holaMundoApp\controller\HolaMundoControllerTest.class

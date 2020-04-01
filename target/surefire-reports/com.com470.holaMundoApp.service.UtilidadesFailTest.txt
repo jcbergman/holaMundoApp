@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.com470.holaMundoApp.service.UtilidadesFailTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0 sec <<< FAILURE! - in com.com470.holaMundoApp.service.UtilidadesFailTest
+testConcatenar(com.com470.holaMundoApp.service.UtilidadesFailTest)  Time elapsed: 0 sec  <<< FAILURE!
+org.junit.ComparisonFailure: expected:<[]> but was:<[ ]>
+	at com.com470.holaMundoApp.service.UtilidadesFailTest.testConcatenar(UtilidadesFailTest.java:24)
+
